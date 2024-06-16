@@ -1,6 +1,6 @@
 {
   "commit": "ba23a4a5a0350d09830a754d96718dc7d11d392e",
-  "generated": "2024-06-16T21:02:07.575Z",
+  "generated": "2024-06-16T21:02:18.404Z",
   "metadata": [
     {
       "__outstatic": {
@@ -166,9 +166,9 @@
     },
     {
       "__outstatic": {
-        "commit": "ecebec55febdd719edffca438535f5a79be84a3e",
-        "hash": "2164911617",
-        "path": "outstatic/content/docs/environment-variables.md"
+        "commit": "111f3c49a77c3bad8cb20d1a3bae7e22c39317cb",
+        "hash": "259082607",
+        "path": "outstatic/content/docs/custom-fields.md"
       },
       "author": {
         "name": "Andre Vitorio",
@@ -177,10 +177,10 @@
       "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2024-03-17T12:36:25.000Z",
-      "slug": "environment-variables",
+      "publishedAt": "2024-03-06T20:01:41.000Z",
+      "slug": "custom-fields",
       "status": "published",
-      "title": "Environment Variables"
+      "title": "Custom Fields"
     },
     {
       "__outstatic": {
