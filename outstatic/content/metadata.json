@@ -1,6 +1,6 @@
 {
   "commit": "ba23a4a5a0350d09830a754d96718dc7d11d392e",
-  "generated": "2024-06-16T21:02:22.607Z",
+  "generated": "2024-06-16T21:02:31.312Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,6 +37,24 @@
       "slug": "github-application",
       "status": "draft",
       "title": "GitHub Application"
+    },
+    {
+      "__outstatic": {
+        "commit": "22650aab8e1fa8241dd7756b1bf90fd79342969d",
+        "hash": "3223339599",
+        "path": "/outstatic/content/docs/fetching-data.md"
+      },
+      "author": {
+        "name": "Jakob Heuser",
+        "picture": "https://avatars.githubusercontent.com/u/1795?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-07-25T12:28:25.000Z",
+      "slug": "fetching-data",
+      "status": "published",
+      "title": "Fetching data"
     },
     {
       "__outstatic": {
@@ -127,24 +145,6 @@
       "slug": "faqs",
       "status": "published",
       "title": "FAQs"
-    },
-    {
-      "__outstatic": {
-        "commit": "28229851a2eed6b7d565c7e96de476bc6c0795ed",
-        "hash": "3687552268",
-        "path": "outstatic/content/docs/github-apps-authentication.md"
-      },
-      "author": {
-        "name": "Anthony Quéré",
-        "picture": "https://avatars.githubusercontent.com/u/47711333?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-26T22:00:00.000Z",
-      "slug": "github-apps-authentication",
-      "status": "published",
-      "title": "GitHub Apps Authentication"
     },
     {
       "__outstatic": {
