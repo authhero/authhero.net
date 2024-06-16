@@ -1,6 +1,6 @@
 {
   "commit": "ba23a4a5a0350d09830a754d96718dc7d11d392e",
-  "generated": "2024-06-16T21:02:39.219Z",
+  "generated": "2024-06-16T21:02:42.894Z",
   "metadata": [
     {
       "__outstatic": {
@@ -94,9 +94,9 @@
     },
     {
       "__outstatic": {
-        "commit": "8eab69c7c7ae74a8a974448363eb28df8f5ee535",
-        "hash": "1038937038",
-        "path": "outstatic/content/docs/the-content-editor.md"
+        "commit": "bbdd4ea46504b696b0af71adafc8bbf6b2e4b809",
+        "hash": "85927068",
+        "path": "outstatic/content/docs/migrating-to-v1.md"
       },
       "author": {
         "name": "Andre Vitorio",
@@ -104,11 +104,11 @@
       },
       "collection": "docs",
       "coverImage": "",
-      "description": "Learn how the Outstatic Content Editor works.",
-      "publishedAt": "2022-10-26T12:26:38.000Z",
-      "slug": "the-content-editor",
+      "description": "Migrating Outstatic to >v1.0.0",
+      "publishedAt": "2023-11-11T18:59:51.912Z",
+      "slug": "migrating-to-v1",
       "status": "published",
-      "title": "The content editor"
+      "title": "Migrating to v1"
     },
     {
       "__outstatic": {
