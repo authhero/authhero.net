@@ -1,6 +1,6 @@
-import Link from 'next/link'
-import { ThemeToggle } from './theme-toggle'
-import { Button } from './ui/button'
+import Link from "next/link";
+import { ThemeToggle } from "./theme-toggle";
+import { Button } from "./ui/button";
 
 // import { Container } from './styles';
 
@@ -9,7 +9,7 @@ const SocialLinks = () => {
     <div className="flex gap-x-2 items-center">
       <Button asChild size="sm" className="bg-transparent lg:bg-foreground">
         <Link
-          href="https://github.com/avitorio/outstatic#stay-up-to-date"
+          href="https://github.com/authhero"
           aria-label="GitHub"
           rel="noreferrer"
           target="_blank"
@@ -31,7 +31,7 @@ const SocialLinks = () => {
       </Button>
       <Button asChild variant="ghost" size="icon">
         <a
-          href="https://x.com/outstatic"
+          href="https://x.com/authhero"
           target="_blank"
           aria-label="X.com"
           rel="noreferrer"
@@ -80,7 +80,7 @@ const SocialLinks = () => {
         <ThemeToggle />
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default SocialLinks
+export default SocialLinks;

@@ -1,40 +1,40 @@
-import { BuiltWithOutstatic } from '@/components/built-with-outstatic'
-import { ThemeProvider } from '@/components/theme-provider'
-import '@/styles/style.css'
-import { Metadata } from 'next'
+import { BuiltWithOutstatic } from "@/components/built-with-outstatic";
+import { ThemeProvider } from "@/components/theme-provider";
+import "@/styles/style.css";
+import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://outstatic.com'),
-  title: 'Outstatic - A Static Site CMS for Next.js',
+  metadataBase: new URL("https://authhero.net"),
+  title: "AuthHero - A open source auth0 compatible authentication server",
   description:
-    'An open source static site CMS for Next.js. Create your blog or website in minutes. No database needed.',
+    "An open source authentiation server that is compatible with Auht0. Setup your self hosted authentication service in minutes. Host for free with CloudFlare.",
   openGraph: {
-    title: 'Outstatic - A Static Site CMS for Next.js',
+    title: "AuthHero - A open source auth0 compatible authentication server",
     description:
-      'An open source static site CMS for Next.js. Create your blog or website in minutes. No database needed.',
-    url: 'https://outstatic.com',
-    siteName: 'Next.js',
+      "An open source authentiation server that is compatible with Auht0. Setup your self hosted authentication service in minutes. Host for free with CloudFlare.",
+    url: "https://authhero.net",
+    siteName: "Next.js",
     images: [
       {
-        url: 'https://outstatic.com/images/og-image.png',
+        url: "",
         width: 1800,
         height: 1600,
-        alt: 'Outstatic - a static CMS for Next.js'
-      }
+        alt: "AuthHero - a open source auth0 compatible authentication server",
+      },
     ],
-    locale: 'en_US',
-    type: 'website'
+    locale: "en_US",
+    type: "website",
   },
   icons: {
-    icon: [{ url: '/favicon/favicon-32x32.png' }],
-    apple: [{ url: '/favicon/apple-touch-icon.png' }]
-  }
-}
+    icon: [{ url: "/favicon/favicon-32x32.png" }],
+    apple: [{ url: "/favicon/apple-touch-icon.png" }],
+  },
+};
 
 export default function RootLayout({
-  children
+  children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
   return (
     <html lang="en">
@@ -50,5 +50,5 @@ export default function RootLayout({
         </ThemeProvider>
       </body>
     </html>
-  )
+  );
 }
