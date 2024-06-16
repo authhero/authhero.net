@@ -1,6 +1,6 @@
 {
   "commit": "ba23a4a5a0350d09830a754d96718dc7d11d392e",
-  "generated": "2024-06-16T21:02:42.894Z",
+  "generated": "2024-06-16T21:02:46.436Z",
   "metadata": [
     {
       "__outstatic": {
@@ -76,9 +76,9 @@
     },
     {
       "__outstatic": {
-        "commit": "819d30ab3c7f2796b94bd8fd21e936f7a988b07e",
-        "hash": "3670638841",
-        "path": "outstatic/content/docs/using-with-next-js-12.md"
+        "commit": "8eab69c7c7ae74a8a974448363eb28df8f5ee535",
+        "hash": "1038937038",
+        "path": "outstatic/content/docs/the-content-editor.md"
       },
       "author": {
         "name": "Andre Vitorio",
@@ -86,11 +86,11 @@
       },
       "collection": "docs",
       "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-09-12T11:50:07.653Z",
-      "slug": "using-with-next-js-12",
+      "description": "Learn how the Outstatic Content Editor works.",
+      "publishedAt": "2022-10-26T12:26:38.000Z",
+      "slug": "the-content-editor",
       "status": "published",
-      "title": "Using with Next.js 12"
+      "title": "The content editor"
     },
     {
       "__outstatic": {
