@@ -1,6 +1,6 @@
 {
   "commit": "ba23a4a5a0350d09830a754d96718dc7d11d392e",
-  "generated": "2024-06-16T21:02:18.404Z",
+  "generated": "2024-06-16T21:02:22.607Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
       "slug": "github-application",
       "status": "draft",
       "title": "GitHub Application"
-    },
-    {
-      "__outstatic": {
-        "commit": "22650aab8e1fa8241dd7756b1bf90fd79342969d",
-        "hash": "3223339599",
-        "path": "/outstatic/content/docs/fetching-data.md"
-      },
-      "author": {
-        "name": "Jakob Heuser",
-        "picture": "https://avatars.githubusercontent.com/u/1795?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-07-25T12:28:25.000Z",
-      "slug": "fetching-data",
-      "status": "published",
-      "title": "Fetching data"
     },
     {
       "__outstatic": {
@@ -181,6 +163,24 @@
       "slug": "custom-fields",
       "status": "published",
       "title": "Custom Fields"
+    },
+    {
+      "__outstatic": {
+        "commit": "ecebec55febdd719edffca438535f5a79be84a3e",
+        "hash": "2164911617",
+        "path": "outstatic/content/docs/environment-variables.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-17T12:36:25.000Z",
+      "slug": "environment-variables",
+      "status": "published",
+      "title": "Environment Variables"
     },
     {
       "__outstatic": {
