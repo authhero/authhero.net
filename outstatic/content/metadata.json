@@ -1,6 +1,6 @@
 {
-  "commit": "34b59fbeaed760843a8c57f95bf996d62a460341",
-  "generated": "2024-03-17T08:27:23.294Z",
+  "commit": "7faaf8acff870b5a2d13e4f163d20e395ae67120",
+  "generated": "2024-06-16T21:12:59.187Z",
   "metadata": [
     {
       "__outstatic": {
@@ -73,24 +73,6 @@
       "slug": "local-development",
       "status": "published",
       "title": "Local Development"
-    },
-    {
-      "__outstatic": {
-        "commit": "819d30ab3c7f2796b94bd8fd21e936f7a988b07e",
-        "hash": "3670638841",
-        "path": "outstatic/content/docs/using-with-next-js-12.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-09-12T11:50:07.653Z",
-      "slug": "using-with-next-js-12",
-      "status": "published",
-      "title": "Using with Next.js 12"
     },
     {
       "__outstatic": {
@@ -202,8 +184,26 @@
     },
     {
       "__outstatic": {
-        "commit": "d82734a2f01415b553d15d1a46dfd9d334868ee5",
-        "hash": "2170562214",
+        "commit": "6592f32ed2bf2dff6051efcbed7129fed4c12329",
+        "hash": "3161054678",
+        "path": "outstatic/content/docs/getting-started.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "Get started with Outstatic",
+      "publishedAt": "2024-03-16T18:34:15.000Z",
+      "slug": "getting-started",
+      "status": "published",
+      "title": "Getting started"
+    },
+    {
+      "__outstatic": {
+        "commit": "7286feb7d475e46a96acce6018bd46652e76e4b0",
+        "hash": "1325471192",
         "path": "outstatic/content/menus/docs-menu.md"
       },
       "author": {
@@ -220,21 +220,21 @@
     },
     {
       "__outstatic": {
-        "commit": "6592f32ed2bf2dff6051efcbed7129fed4c12329",
-        "hash": "3161054678",
-        "path": "outstatic/content/docs/getting-started.md"
+        "commit": "7faaf8acff870b5a2d13e4f163d20e395ae67120",
+        "hash": "2167250771",
+        "path": "outstatic/content/pages/home.md"
       },
       "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
       },
-      "collection": "docs",
+      "collection": "pages",
       "coverImage": "",
-      "description": "Get started with Outstatic",
-      "publishedAt": "2024-03-16T18:34:15.000Z",
-      "slug": "getting-started",
+      "description": "",
+      "publishedAt": "2024-06-16T21:17:50.245Z",
+      "slug": "home",
       "status": "published",
-      "title": "Getting started"
+      "title": "Home"
     }
   ]
 }
