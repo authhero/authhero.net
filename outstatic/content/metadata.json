@@ -1,6 +1,6 @@
 {
-  "commit": "34b59fbeaed760843a8c57f95bf996d62a460341",
-  "generated": "2024-03-17T08:27:23.294Z",
+  "commit": "ba23a4a5a0350d09830a754d96718dc7d11d392e",
+  "generated": "2024-06-16T21:02:07.575Z",
   "metadata": [
     {
       "__outstatic": {
@@ -163,24 +163,6 @@
       "slug": "github-apps-authentication",
       "status": "published",
       "title": "GitHub Apps Authentication"
-    },
-    {
-      "__outstatic": {
-        "commit": "111f3c49a77c3bad8cb20d1a3bae7e22c39317cb",
-        "hash": "259082607",
-        "path": "outstatic/content/docs/custom-fields.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-06T20:01:41.000Z",
-      "slug": "custom-fields",
-      "status": "published",
-      "title": "Custom Fields"
     },
     {
       "__outstatic": {
