@@ -1,4 +1,3 @@
-import { BuiltWithOutstatic } from "@/components/built-with-outstatic";
 import { ThemeProvider } from "@/components/theme-provider";
 import "@/styles/style.css";
 import { Metadata } from "next";
@@ -46,7 +45,6 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           {children}
-          <BuiltWithOutstatic />
         </ThemeProvider>
       </body>
     </html>
