@@ -1,6 +1,6 @@
 {
-  "commit": "994fa48405e1ff4400f5031f04cf1d1bfd28279e",
-  "generated": "2024-06-17T08:42:46.619Z",
+  "commit": "30e4740a43b1ad673d6f6f55f06f7483d748258a",
+  "generated": "2024-06-17T08:46:57.605Z",
   "metadata": [
     {
       "__outstatic": {
@@ -202,24 +202,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7286feb7d475e46a96acce6018bd46652e76e4b0",
-        "hash": "1325471192",
-        "path": "outstatic/content/menus/docs-menu.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "menus",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-16T15:18:37.000Z",
-      "slug": "docs-menu",
-      "status": "published",
-      "title": "Docs Menu"
-    },
-    {
-      "__outstatic": {
         "commit": "7faaf8acff870b5a2d13e4f163d20e395ae67120",
         "hash": "2167250771",
         "path": "outstatic/content/pages/home.md"
@@ -379,6 +361,24 @@
       "slug": "firebase-authentication",
       "status": "published",
       "title": "Firebase Authentication"
+    },
+    {
+      "__outstatic": {
+        "commit": "30e4740a43b1ad673d6f6f55f06f7483d748258a",
+        "hash": "1998049270",
+        "path": "outstatic/content/menus/docs-menu.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "menus",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-16T15:18:37.000Z",
+      "slug": "docs-menu",
+      "status": "published",
+      "title": "Docs Menu"
     }
   ]
 }
