@@ -1,6 +1,6 @@
 {
-  "commit": "2bb3bf0261f8400582c685f856b777ee0796415a",
-  "generated": "2024-06-17T08:37:42.225Z",
+  "commit": "3f114a93b8f10e6511890f50b89922982e7b0eb5",
+  "generated": "2024-06-17T08:41:29.155Z",
   "metadata": [
     {
       "__outstatic": {
@@ -343,6 +343,24 @@
       "slug": "azure-active-directory-b2c",
       "status": "published",
       "title": "Azure Active Directory B2C"
+    },
+    {
+      "__outstatic": {
+        "commit": "3f114a93b8f10e6511890f50b89922982e7b0eb5",
+        "hash": "2928399726",
+        "path": "outstatic/content/docs/hanko.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:52:48.669Z",
+      "slug": "hanko",
+      "status": "published",
+      "title": "Hanko"
     }
   ]
 }
