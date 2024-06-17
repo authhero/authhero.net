@@ -1,6 +1,6 @@
 {
-  "commit": "30e4740a43b1ad673d6f6f55f06f7483d748258a",
-  "generated": "2024-06-17T08:46:57.605Z",
+  "commit": "c558745fc101e4418d0e86d9d68f6085131ca660",
+  "generated": "2024-06-17T09:10:36.334Z",
   "metadata": [
     {
       "__outstatic": {
@@ -220,24 +220,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c0231c03f397d27f9b5620822f0f19d8df70c299",
-        "hash": "3747713467",
-        "path": "outstatic/content/docs/auth0.md"
-      },
-      "author": {
-        "name": "Markus Ahlstrand",
-        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-17T08:43:37.178Z",
-      "slug": "auth0",
-      "status": "published",
-      "title": "Auth0"
-    },
-    {
-      "__outstatic": {
         "commit": "364a8581ace25660b8c87d39a7bf937a37f838ac",
         "hash": "686888777",
         "path": "outstatic/content/docs/clerk.md"
@@ -379,6 +361,25 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "c558745fc101e4418d0e86d9d68f6085131ca660",
+        "hash": "2119846744",
+        "path": "outstatic/content/docs/auth0.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "menuPath": "Auth Services|Auth0",
+      "publishedAt": "2024-06-17T08:43:37.178Z",
+      "slug": "auth0",
+      "status": "published",
+      "title": "Auth0"
     }
   ]
 }

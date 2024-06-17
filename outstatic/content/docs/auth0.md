@@ -7,6 +7,7 @@ author:
 slug: 'auth0'
 description: ''
 coverImage: ''
+menuPath: 'Auth Services|Auth0'
 publishedAt: '2024-06-17T08:43:37.178Z'
 ---
 
