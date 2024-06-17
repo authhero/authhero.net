@@ -1,6 +1,6 @@
 {
-  "commit": "364a8581ace25660b8c87d39a7bf937a37f838ac",
-  "generated": "2024-06-17T08:34:08.302Z",
+  "commit": "e55ea478cf5f5140b1da7d5b23d370276a507afa",
+  "generated": "2024-06-17T08:35:02.400Z",
   "metadata": [
     {
       "__outstatic": {
@@ -271,6 +271,24 @@
       "slug": "clerk",
       "status": "published",
       "title": "Clerk"
+    },
+    {
+      "__outstatic": {
+        "commit": "e55ea478cf5f5140b1da7d5b23d370276a507afa",
+        "hash": "175034607",
+        "path": "outstatic/content/docs/workos.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:46:18.195Z",
+      "slug": "workos",
+      "status": "published",
+      "title": "WorkOS"
     }
   ]
 }
