@@ -1,6 +1,6 @@
 {
-  "commit": "24402108fa6023eaa41555adf2c23a0dd6801d75",
-  "generated": "2024-06-17T08:35:50.898Z",
+  "commit": "207e3972a93727c864d17e4cfccc8bd38342dc3a",
+  "generated": "2024-06-17T08:36:34.803Z",
   "metadata": [
     {
       "__outstatic": {
@@ -307,6 +307,24 @@
       "slug": "lucia-auth",
       "status": "published",
       "title": "Lucia Auth"
+    },
+    {
+      "__outstatic": {
+        "commit": "207e3972a93727c864d17e4cfccc8bd38342dc3a",
+        "hash": "1940698032",
+        "path": "outstatic/content/docs/aws-cognito.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:48:00.448Z",
+      "slug": "aws-cognito",
+      "status": "published",
+      "title": "AWS Cognito"
     }
   ]
 }
