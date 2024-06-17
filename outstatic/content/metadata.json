@@ -1,6 +1,6 @@
 {
-  "commit": "3f114a93b8f10e6511890f50b89922982e7b0eb5",
-  "generated": "2024-06-17T08:41:29.155Z",
+  "commit": "994fa48405e1ff4400f5031f04cf1d1bfd28279e",
+  "generated": "2024-06-17T08:42:46.619Z",
   "metadata": [
     {
       "__outstatic": {
@@ -361,6 +361,24 @@
       "slug": "hanko",
       "status": "published",
       "title": "Hanko"
+    },
+    {
+      "__outstatic": {
+        "commit": "994fa48405e1ff4400f5031f04cf1d1bfd28279e",
+        "hash": "2694808387",
+        "path": "outstatic/content/docs/firebase-authentication.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:54:05.868Z",
+      "slug": "firebase-authentication",
+      "status": "published",
+      "title": "Firebase Authentication"
     }
   ]
 }
