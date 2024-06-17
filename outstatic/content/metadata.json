@@ -1,6 +1,6 @@
 {
-  "commit": "207e3972a93727c864d17e4cfccc8bd38342dc3a",
-  "generated": "2024-06-17T08:36:34.803Z",
+  "commit": "2bb3bf0261f8400582c685f856b777ee0796415a",
+  "generated": "2024-06-17T08:37:42.225Z",
   "metadata": [
     {
       "__outstatic": {
@@ -325,6 +325,24 @@
       "slug": "aws-cognito",
       "status": "published",
       "title": "AWS Cognito"
+    },
+    {
+      "__outstatic": {
+        "commit": "2bb3bf0261f8400582c685f856b777ee0796415a",
+        "hash": "1824385671",
+        "path": "outstatic/content/docs/azure-active-directory-b2c.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:48:39.728Z",
+      "slug": "azure-active-directory-b2c",
+      "status": "published",
+      "title": "Azure Active Directory B2C"
     }
   ]
 }
