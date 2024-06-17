@@ -1,6 +1,6 @@
 {
-  "commit": "c0231c03f397d27f9b5620822f0f19d8df70c299",
-  "generated": "2024-06-17T08:32:46.744Z",
+  "commit": "364a8581ace25660b8c87d39a7bf937a37f838ac",
+  "generated": "2024-06-17T08:34:08.302Z",
   "metadata": [
     {
       "__outstatic": {
@@ -253,6 +253,24 @@
       "slug": "auth0",
       "status": "published",
       "title": "Auth0"
+    },
+    {
+      "__outstatic": {
+        "commit": "364a8581ace25660b8c87d39a7bf937a37f838ac",
+        "hash": "686888777",
+        "path": "outstatic/content/docs/clerk.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:45:09.090Z",
+      "slug": "clerk",
+      "status": "published",
+      "title": "Clerk"
     }
   ]
 }
