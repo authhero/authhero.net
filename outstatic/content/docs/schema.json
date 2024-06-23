@@ -1,0 +1,13 @@
+{
+  "title": "docs",
+  "type": "object",
+  "properties": {
+    "menuPath": {
+      "required": false,
+      "description": "A pipe separated string that determines where in the doc page is shown in the menu",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Menu Path"
+    }
+  }
+}

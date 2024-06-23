@@ -1,6 +1,6 @@
 {
-  "commit": "7faaf8acff870b5a2d13e4f163d20e395ae67120",
-  "generated": "2024-06-16T21:12:59.187Z",
+  "commit": "c558745fc101e4418d0e86d9d68f6085131ca660",
+  "generated": "2024-06-17T09:10:36.334Z",
   "metadata": [
     {
       "__outstatic": {
@@ -202,8 +202,152 @@
     },
     {
       "__outstatic": {
-        "commit": "7286feb7d475e46a96acce6018bd46652e76e4b0",
-        "hash": "1325471192",
+        "commit": "7faaf8acff870b5a2d13e4f163d20e395ae67120",
+        "hash": "2167250771",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-16T21:17:50.245Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "364a8581ace25660b8c87d39a7bf937a37f838ac",
+        "hash": "686888777",
+        "path": "outstatic/content/docs/clerk.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:45:09.090Z",
+      "slug": "clerk",
+      "status": "published",
+      "title": "Clerk"
+    },
+    {
+      "__outstatic": {
+        "commit": "e55ea478cf5f5140b1da7d5b23d370276a507afa",
+        "hash": "175034607",
+        "path": "outstatic/content/docs/workos.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:46:18.195Z",
+      "slug": "workos",
+      "status": "published",
+      "title": "WorkOS"
+    },
+    {
+      "__outstatic": {
+        "commit": "24402108fa6023eaa41555adf2c23a0dd6801d75",
+        "hash": "1161822270",
+        "path": "outstatic/content/docs/lucia-auth.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:47:34.480Z",
+      "slug": "lucia-auth",
+      "status": "published",
+      "title": "Lucia Auth"
+    },
+    {
+      "__outstatic": {
+        "commit": "207e3972a93727c864d17e4cfccc8bd38342dc3a",
+        "hash": "1940698032",
+        "path": "outstatic/content/docs/aws-cognito.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:48:00.448Z",
+      "slug": "aws-cognito",
+      "status": "published",
+      "title": "AWS Cognito"
+    },
+    {
+      "__outstatic": {
+        "commit": "2bb3bf0261f8400582c685f856b777ee0796415a",
+        "hash": "1824385671",
+        "path": "outstatic/content/docs/azure-active-directory-b2c.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:48:39.728Z",
+      "slug": "azure-active-directory-b2c",
+      "status": "published",
+      "title": "Azure Active Directory B2C"
+    },
+    {
+      "__outstatic": {
+        "commit": "3f114a93b8f10e6511890f50b89922982e7b0eb5",
+        "hash": "2928399726",
+        "path": "outstatic/content/docs/hanko.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:52:48.669Z",
+      "slug": "hanko",
+      "status": "published",
+      "title": "Hanko"
+    },
+    {
+      "__outstatic": {
+        "commit": "994fa48405e1ff4400f5031f04cf1d1bfd28279e",
+        "hash": "2694808387",
+        "path": "outstatic/content/docs/firebase-authentication.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:54:05.868Z",
+      "slug": "firebase-authentication",
+      "status": "published",
+      "title": "Firebase Authentication"
+    },
+    {
+      "__outstatic": {
+        "commit": "30e4740a43b1ad673d6f6f55f06f7483d748258a",
+        "hash": "1998049270",
         "path": "outstatic/content/menus/docs-menu.md"
       },
       "author": {
@@ -220,21 +364,22 @@
     },
     {
       "__outstatic": {
-        "commit": "7faaf8acff870b5a2d13e4f163d20e395ae67120",
-        "hash": "2167250771",
-        "path": "outstatic/content/pages/home.md"
+        "commit": "c558745fc101e4418d0e86d9d68f6085131ca660",
+        "hash": "2119846744",
+        "path": "outstatic/content/docs/auth0.md"
       },
       "author": {
         "name": "Markus Ahlstrand",
         "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
       },
-      "collection": "pages",
+      "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2024-06-16T21:17:50.245Z",
-      "slug": "home",
+      "menuPath": "Auth Services|Auth0",
+      "publishedAt": "2024-06-17T08:43:37.178Z",
+      "slug": "auth0",
       "status": "published",
-      "title": "Home"
+      "title": "Auth0"
     }
   ]
 }
