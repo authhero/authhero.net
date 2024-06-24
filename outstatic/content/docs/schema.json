@@ -8,6 +8,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Menu Path"
+    },
+    "startPagePrio": {
+      "required": false,
+      "description": "The prio of the page to show on the start page.",
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "startPagePrio"
     }
   }
 }
