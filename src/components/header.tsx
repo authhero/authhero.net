@@ -6,7 +6,7 @@ const Header = () => {
     <nav className="bg-background flex justify-center lg:justify-between items-center w-full px-4 py-2 border-b border-secondary sticky top-0 z-10 h-10 lg:h-16">
       <Link href="/">
         <svg
-          height="32"
+          height="24"
           viewBox="0 0 424.806 75.979"
           xmlns="http://www.w3.org/2000/svg"
           aria-label="AuthHero"
