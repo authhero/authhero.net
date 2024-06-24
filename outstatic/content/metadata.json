@@ -1,6 +1,6 @@
 {
-  "commit": "c558745fc101e4418d0e86d9d68f6085131ca660",
-  "generated": "2024-06-17T09:10:36.334Z",
+  "commit": "98382f3186aa40a0b8ebd3ca5c168849220d4cd9",
+  "generated": "2024-06-24T11:20:49.542Z",
   "metadata": [
     {
       "__outstatic": {
@@ -202,24 +202,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7faaf8acff870b5a2d13e4f163d20e395ae67120",
-        "hash": "2167250771",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Markus Ahlstrand",
-        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-16T21:17:50.245Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
         "commit": "364a8581ace25660b8c87d39a7bf937a37f838ac",
         "hash": "686888777",
         "path": "outstatic/content/docs/clerk.md"
@@ -380,6 +362,24 @@
       "slug": "auth0",
       "status": "published",
       "title": "Auth0"
+    },
+    {
+      "__outstatic": {
+        "commit": "98382f3186aa40a0b8ebd3ca5c168849220d4cd9",
+        "hash": "886463632",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/hero-c1Nj.png",
+      "description": "",
+      "publishedAt": "2024-06-16T21:17:50.245Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
