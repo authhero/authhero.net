@@ -1,6 +1,6 @@
 {
-  "commit": "816eec6e05a0fe97e222ebbdce8216f45bc8b35e",
-  "generated": "2024-06-30T22:01:47.746Z",
+  "commit": "8fc3bcb951406af1e1cba5f9acb1fa8aa0165f2e",
+  "generated": "2024-07-10T20:10:08.946Z",
   "metadata": [
     {
       "__outstatic": {
@@ -382,24 +382,6 @@
       "startPagePrio": "1",
       "status": "published",
       "title": "Getting started"
-    },
-    {
-      "__outstatic": {
-        "commit": "816eec6e05a0fe97e222ebbdce8216f45bc8b35e",
-        "hash": "3635418",
-        "path": "outstatic/content/cards/getting-started.md"
-      },
-      "author": {
-        "name": "Markus Ahlstrand",
-        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
-      },
-      "collection": "cards",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-30T22:10:44.391Z",
-      "slug": "getting-started",
-      "status": "draft",
-      "title": "Getting Started"
     }
   ]
 }
