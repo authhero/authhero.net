@@ -1,6 +1,6 @@
 {
-  "commit": "b56c9e983a78a304213b7a3edbf5f15f9c0ba798",
-  "generated": "2024-07-10T20:57:22.938Z",
+  "commit": "b081cb4f1f86468f5b1aca2cf888ff04f74babc5",
+  "generated": "2024-07-10T21:12:23.606Z",
   "metadata": [
     {
       "__outstatic": {
@@ -257,6 +257,24 @@
       "slug": "docs-menu",
       "status": "published",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "b081cb4f1f86468f5b1aca2cf888ff04f74babc5",
+        "hash": "1431943638",
+        "path": "outstatic/content/features/auth0-compatible.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "features",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-10T21:22:31.177Z",
+      "slug": "auth0-compatible",
+      "status": "published",
+      "title": "Auth0 Compatible"
     }
   ]
 }
