@@ -1,6 +1,6 @@
 {
   "commit": "b56c9e983a78a304213b7a3edbf5f15f9c0ba798",
-  "generated": "2024-07-10T20:56:58.579Z",
+  "generated": "2024-07-10T20:57:22.938Z",
   "metadata": [
     {
       "__outstatic": {
@@ -243,7 +243,7 @@
     {
       "__outstatic": {
         "commit": "b56c9e983a78a304213b7a3edbf5f15f9c0ba798",
-        "hash": "3627753335",
+        "hash": "3574314765",
         "path": "outstatic/content/menus/docs-menu.md"
       },
       "author": {
