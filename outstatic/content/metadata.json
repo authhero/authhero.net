@@ -1,6 +1,6 @@
 {
-  "commit": "8cbe567432b49bcadbc4bcf35ce16a72f9b30fc9",
-  "generated": "2024-07-10T20:44:00.846Z",
+  "commit": "115548a1531d6ba19710a203c5381a0d999bd607",
+  "generated": "2024-07-10T20:51:28.070Z",
   "metadata": [
     {
       "__outstatic": {
@@ -365,6 +365,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "115548a1531d6ba19710a203c5381a0d999bd607",
+        "hash": "2680687074",
+        "path": "outstatic/content/menus/docs-menu.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "menus",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-10T21:00:07.332Z",
+      "slug": "docs-menu",
+      "status": "draft",
+      "title": "Docs Menu"
     }
   ]
 }
