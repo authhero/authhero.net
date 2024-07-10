@@ -1,6 +1,6 @@
 {
-  "commit": "cb21dd2a6894e8ea32153ec615b1cb51771ec401",
-  "generated": "2024-07-10T20:10:17.549Z",
+  "commit": "b7558e64f52f8280196f59413a1cd4984654b405",
+  "generated": "2024-07-10T20:14:00.869Z",
   "metadata": [
     {
       "__outstatic": {
@@ -329,24 +329,6 @@
     },
     {
       "__outstatic": {
-        "commit": "98382f3186aa40a0b8ebd3ca5c168849220d4cd9",
-        "hash": "886463632",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Markus Ahlstrand",
-        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/hero-c1Nj.png",
-      "description": "",
-      "publishedAt": "2024-06-16T21:17:50.245Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
         "commit": "48e3cd4055286a4badd1c91d9b6c1221ddb3c82b",
         "hash": "1600279407",
         "path": "outstatic/content/docs/getting-started.md"
@@ -364,6 +346,25 @@
       "startPagePrio": "1",
       "status": "published",
       "title": "Getting started"
+    },
+    {
+      "__outstatic": {
+        "commit": "b7558e64f52f8280196f59413a1cd4984654b405",
+        "hash": "1732852895",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/hero-c1Nj.png",
+      "description": "",
+      "features": "[{\"icon\":\"🛠️\", \"title\": \"Getting started\", \"detail\": \"Get up and running in minutes\"}]",
+      "publishedAt": "2024-06-16T21:17:50.245Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }

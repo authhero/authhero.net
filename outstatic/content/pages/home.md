@@ -7,6 +7,7 @@ author:
 slug: 'home'
 description: ''
 coverImage: '/images/hero-c1Nj.png'
+features: '[{"icon":"🛠️", "title": "Getting started", "detail": "Get up and running in minutes"}]'
 publishedAt: '2024-06-16T21:17:50.245Z'
 ---
 
