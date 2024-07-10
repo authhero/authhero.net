@@ -8,13 +8,6 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Menu Path"
-    },
-    "startPagePrio": {
-      "required": false,
-      "description": "Set the in which order a docs page will be shown on the start page.",
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "Start Page Prio"
     }
   }
 }
