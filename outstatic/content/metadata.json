@@ -1,190 +1,10 @@
 {
-  "commit": "115548a1531d6ba19710a203c5381a0d999bd607",
-  "generated": "2024-07-10T20:51:28.070Z",
+  "commit": "2fcc7a20a94f2ef598724ecb97264e8e8dec4616",
+  "generated": "Wed, 10 Jul 2024 20:54:25 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "3bbf1f134c75554e5c13021122ec22f45cc34718",
-        "hash": "4022666034",
-        "path": "/outstatic/content/docs/introduction.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-05-26T17:50:55.000Z",
-      "slug": "introduction",
-      "status": "published",
-      "title": "Introduction"
-    },
-    {
-      "__outstatic": {
-        "commit": "d284432c4f249abdc1b70341c757a5fef958f7ae",
-        "hash": "233056259",
-        "path": "/outstatic/content/docs/github-applications.md"
-      },
-      "author": {
-        "name": "Anthony Quéré",
-        "picture": "https://avatars.githubusercontent.com/u/47711333?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-08-04T21:00:00.000Z",
-      "slug": "github-application",
-      "status": "draft",
-      "title": "GitHub Application"
-    },
-    {
-      "__outstatic": {
-        "commit": "22650aab8e1fa8241dd7756b1bf90fd79342969d",
-        "hash": "3223339599",
-        "path": "/outstatic/content/docs/fetching-data.md"
-      },
-      "author": {
-        "name": "Jakob Heuser",
-        "picture": "https://avatars.githubusercontent.com/u/1795?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-07-25T12:28:25.000Z",
-      "slug": "fetching-data",
-      "status": "published",
-      "title": "Fetching data"
-    },
-    {
-      "__outstatic": {
-        "commit": "baab0613ec7117304e95b6dbdcd0d84fbab2c45a",
-        "hash": "2166371953",
-        "path": "/outstatic/content/docs/local-development.md"
-      },
-      "author": {
-        "name": "leplay",
-        "picture": "https://avatars.githubusercontent.com/u/284475?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-09-23T08:42:29.464Z",
-      "slug": "local-development",
-      "status": "published",
-      "title": "Local Development"
-    },
-    {
-      "__outstatic": {
-        "commit": "8eab69c7c7ae74a8a974448363eb28df8f5ee535",
-        "hash": "1038937038",
-        "path": "outstatic/content/docs/the-content-editor.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "Learn how the Outstatic Content Editor works.",
-      "publishedAt": "2022-10-26T12:26:38.000Z",
-      "slug": "the-content-editor",
-      "status": "published",
-      "title": "The content editor"
-    },
-    {
-      "__outstatic": {
-        "commit": "bbdd4ea46504b696b0af71adafc8bbf6b2e4b809",
-        "hash": "85927068",
-        "path": "outstatic/content/docs/migrating-to-v1.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "Migrating Outstatic to >v1.0.0",
-      "publishedAt": "2023-11-11T18:59:51.912Z",
-      "slug": "migrating-to-v1",
-      "status": "published",
-      "title": "Migrating to v1"
-    },
-    {
-      "__outstatic": {
-        "commit": "cdd3b81cdc002ee9f57b53f0f46bff42bbf79d19",
-        "hash": "3433676299",
-        "path": "outstatic/content/docs/faqs.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-20T13:07:51.000Z",
-      "slug": "faqs",
-      "status": "published",
-      "title": "FAQs"
-    },
-    {
-      "__outstatic": {
-        "commit": "28229851a2eed6b7d565c7e96de476bc6c0795ed",
-        "hash": "3687552268",
-        "path": "outstatic/content/docs/github-apps-authentication.md"
-      },
-      "author": {
-        "name": "Anthony Quéré",
-        "picture": "https://avatars.githubusercontent.com/u/47711333?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-26T22:00:00.000Z",
-      "slug": "github-apps-authentication",
-      "status": "published",
-      "title": "GitHub Apps Authentication"
-    },
-    {
-      "__outstatic": {
-        "commit": "111f3c49a77c3bad8cb20d1a3bae7e22c39317cb",
-        "hash": "259082607",
-        "path": "outstatic/content/docs/custom-fields.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-06T20:01:41.000Z",
-      "slug": "custom-fields",
-      "status": "published",
-      "title": "Custom Fields"
-    },
-    {
-      "__outstatic": {
-        "commit": "ecebec55febdd719edffca438535f5a79be84a3e",
-        "hash": "2164911617",
-        "path": "outstatic/content/docs/environment-variables.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-03-17T12:36:25.000Z",
-      "slug": "environment-variables",
-      "status": "published",
-      "title": "Environment Variables"
-    },
-    {
-      "__outstatic": {
-        "commit": "364a8581ace25660b8c87d39a7bf937a37f838ac",
+        "commit": "ebc2424e6da80a980f6a182daed40b7aa4cc735c",
         "hash": "686888777",
         "path": "outstatic/content/docs/clerk.md"
       },
@@ -202,61 +22,7 @@
     },
     {
       "__outstatic": {
-        "commit": "e55ea478cf5f5140b1da7d5b23d370276a507afa",
-        "hash": "175034607",
-        "path": "outstatic/content/docs/workos.md"
-      },
-      "author": {
-        "name": "Markus Ahlstrand",
-        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-17T08:46:18.195Z",
-      "slug": "workos",
-      "status": "published",
-      "title": "WorkOS"
-    },
-    {
-      "__outstatic": {
-        "commit": "24402108fa6023eaa41555adf2c23a0dd6801d75",
-        "hash": "1161822270",
-        "path": "outstatic/content/docs/lucia-auth.md"
-      },
-      "author": {
-        "name": "Markus Ahlstrand",
-        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-17T08:47:34.480Z",
-      "slug": "lucia-auth",
-      "status": "published",
-      "title": "Lucia Auth"
-    },
-    {
-      "__outstatic": {
-        "commit": "207e3972a93727c864d17e4cfccc8bd38342dc3a",
-        "hash": "1940698032",
-        "path": "outstatic/content/docs/aws-cognito.md"
-      },
-      "author": {
-        "name": "Markus Ahlstrand",
-        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-17T08:48:00.448Z",
-      "slug": "aws-cognito",
-      "status": "published",
-      "title": "AWS Cognito"
-    },
-    {
-      "__outstatic": {
-        "commit": "2bb3bf0261f8400582c685f856b777ee0796415a",
+        "commit": "b75cadd5ffefdff6696b0ba2b54fd4ceca6a3ae3",
         "hash": "1824385671",
         "path": "outstatic/content/docs/azure-active-directory-b2c.md"
       },
@@ -274,9 +40,9 @@
     },
     {
       "__outstatic": {
-        "commit": "3f114a93b8f10e6511890f50b89922982e7b0eb5",
-        "hash": "2928399726",
-        "path": "outstatic/content/docs/hanko.md"
+        "commit": "851f7b947232f2ff9d8bbbb72bad013da4c7315d",
+        "hash": "1940698032",
+        "path": "outstatic/content/docs/aws-cognito.md"
       },
       "author": {
         "name": "Markus Ahlstrand",
@@ -285,32 +51,14 @@
       "collection": "docs",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2024-06-17T08:52:48.669Z",
-      "slug": "hanko",
+      "publishedAt": "2024-06-17T08:48:00.448Z",
+      "slug": "aws-cognito",
       "status": "published",
-      "title": "Hanko"
+      "title": "AWS Cognito"
     },
     {
       "__outstatic": {
-        "commit": "994fa48405e1ff4400f5031f04cf1d1bfd28279e",
-        "hash": "2694808387",
-        "path": "outstatic/content/docs/firebase-authentication.md"
-      },
-      "author": {
-        "name": "Markus Ahlstrand",
-        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-17T08:54:05.868Z",
-      "slug": "firebase-authentication",
-      "status": "published",
-      "title": "Firebase Authentication"
-    },
-    {
-      "__outstatic": {
-        "commit": "c558745fc101e4418d0e86d9d68f6085131ca660",
+        "commit": "6afa8a3cfbb5cf716f530e7981a52cf0cc32360e",
         "hash": "2119846744",
         "path": "outstatic/content/docs/auth0.md"
       },
@@ -329,7 +77,43 @@
     },
     {
       "__outstatic": {
-        "commit": "48e3cd4055286a4badd1c91d9b6c1221ddb3c82b",
+        "commit": "fff9ad582aa8120c7097c1004319f5d61cf87890",
+        "hash": "2229548952",
+        "path": "outstatic/content/docs/introduction.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-05-26T17:50:55.000Z",
+      "slug": "introduction",
+      "status": "published",
+      "title": "Introduction"
+    },
+    {
+      "__outstatic": {
+        "commit": "6343439ca3ec04704090866d90b6ceda90269854",
+        "hash": "2928399726",
+        "path": "outstatic/content/docs/hanko.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:52:48.669Z",
+      "slug": "hanko",
+      "status": "published",
+      "title": "Hanko"
+    },
+    {
+      "__outstatic": {
+        "commit": "0fe9d5b77ac3dff095705073eb505cf283928561",
         "hash": "1600279407",
         "path": "outstatic/content/docs/getting-started.md"
       },
@@ -349,7 +133,43 @@
     },
     {
       "__outstatic": {
-        "commit": "8cbe567432b49bcadbc4bcf35ce16a72f9b30fc9",
+        "commit": "19b1b74e9def340b6222a5b6024d653610ec356a",
+        "hash": "2694808387",
+        "path": "outstatic/content/docs/firebase-authentication.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:54:05.868Z",
+      "slug": "firebase-authentication",
+      "status": "published",
+      "title": "Firebase Authentication"
+    },
+    {
+      "__outstatic": {
+        "commit": "986f58c7c97a4db607ecab072e32eccdd16ed671",
+        "hash": "490214365",
+        "path": "outstatic/content/docs/faqs.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-11-20T13:07:51.000Z",
+      "slug": "faqs",
+      "status": "published",
+      "title": "FAQs"
+    },
+    {
+      "__outstatic": {
+        "commit": "e2e5e12cb6f4e7386e2b9546ee4e797dc8d133ad",
         "hash": "327838003",
         "path": "outstatic/content/pages/home.md"
       },
@@ -368,7 +188,7 @@
     },
     {
       "__outstatic": {
-        "commit": "115548a1531d6ba19710a203c5381a0d999bd607",
+        "commit": "c3719ea302be7d2d43969e47a093ac22738d5edf",
         "hash": "2680687074",
         "path": "outstatic/content/menus/docs-menu.md"
       },
@@ -383,6 +203,60 @@
       "slug": "docs-menu",
       "status": "draft",
       "title": "Docs Menu"
+    },
+    {
+      "__outstatic": {
+        "commit": "24419469d9a22a3ad929cad940579893e1509e35",
+        "hash": "175034607",
+        "path": "outstatic/content/docs/workos.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:46:18.195Z",
+      "slug": "workos",
+      "status": "published",
+      "title": "WorkOS"
+    },
+    {
+      "__outstatic": {
+        "commit": "2a83efd09cb36acf555a573b3628c87f815b5f55",
+        "hash": "1161822270",
+        "path": "outstatic/content/docs/lucia-auth.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-17T08:47:34.480Z",
+      "slug": "lucia-auth",
+      "status": "published",
+      "title": "Lucia Auth"
+    },
+    {
+      "__outstatic": {
+        "commit": "5b338ea37847338e26cf47e2c2c6fd85105b3d0a",
+        "hash": "191850098",
+        "path": "outstatic/content/docs/local-development.md"
+      },
+      "author": {
+        "name": "leplay",
+        "picture": "https://avatars.githubusercontent.com/u/284475?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-11-25T09:42:29.000Z",
+      "slug": "local-development",
+      "status": "published",
+      "title": "Local Development"
     }
   ]
 }
