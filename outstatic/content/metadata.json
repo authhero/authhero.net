@@ -1,6 +1,6 @@
 {
-  "commit": "2fcc7a20a94f2ef598724ecb97264e8e8dec4616",
-  "generated": "Wed, 10 Jul 2024 20:54:25 GMT",
+  "commit": "b56c9e983a78a304213b7a3edbf5f15f9c0ba798",
+  "generated": "2024-07-10T20:56:58.579Z",
   "metadata": [
     {
       "__outstatic": {
@@ -188,24 +188,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c3719ea302be7d2d43969e47a093ac22738d5edf",
-        "hash": "2680687074",
-        "path": "outstatic/content/menus/docs-menu.md"
-      },
-      "author": {
-        "name": "Markus Ahlstrand",
-        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
-      },
-      "collection": "menus",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-07-10T21:00:07.332Z",
-      "slug": "docs-menu",
-      "status": "draft",
-      "title": "Docs Menu"
-    },
-    {
-      "__outstatic": {
         "commit": "24419469d9a22a3ad929cad940579893e1509e35",
         "hash": "175034607",
         "path": "outstatic/content/docs/workos.md"
@@ -257,6 +239,24 @@
       "slug": "local-development",
       "status": "published",
       "title": "Local Development"
+    },
+    {
+      "__outstatic": {
+        "commit": "b56c9e983a78a304213b7a3edbf5f15f9c0ba798",
+        "hash": "3627753335",
+        "path": "outstatic/content/menus/docs-menu.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "menus",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-10T21:00:07.332Z",
+      "slug": "docs-menu",
+      "status": "published",
+      "title": "Docs Menu"
     }
   ]
 }

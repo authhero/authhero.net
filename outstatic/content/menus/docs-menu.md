@@ -1,6 +1,6 @@
 ---
 title: 'Docs Menu'
-status: 'draft'
+status: 'published'
 author:
   name: 'Markus Ahlstrand'
   picture: 'https://avatars.githubusercontent.com/u/89469?v=4'
