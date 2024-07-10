@@ -1,0 +1,13 @@
+{
+  "title": "pages",
+  "type": "object",
+  "properties": {
+    "features": {
+      "required": false,
+      "description": "A json with features that will be rendered as links",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Features"
+    }
+  }
+}
