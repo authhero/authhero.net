@@ -1,6 +1,6 @@
 {
   "commit": "8cbe567432b49bcadbc4bcf35ce16a72f9b30fc9",
-  "generated": "2024-07-10T20:42:19.939Z",
+  "generated": "2024-07-10T20:44:00.846Z",
   "metadata": [
     {
       "__outstatic": {
@@ -350,7 +350,7 @@
     {
       "__outstatic": {
         "commit": "8cbe567432b49bcadbc4bcf35ce16a72f9b30fc9",
-        "hash": "1920381769",
+        "hash": "327838003",
         "path": "outstatic/content/pages/home.md"
       },
       "author": {
@@ -358,7 +358,7 @@
         "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
       },
       "collection": "pages",
-      "coverImage": "/images/hero-c1nj-c1OD.png",
+      "coverImage": "/images/hero-c1nj-k4Nz.png",
       "description": "",
       "features": "[{\"icon\":\"🛠️\", \"title\": \"Getting started\", \"detail\": \"Get up and running in minutes\"}]",
       "publishedAt": "2024-06-16T21:17:50.245Z",
