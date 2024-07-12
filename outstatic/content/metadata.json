@@ -1,6 +1,6 @@
 {
-  "commit": "52c9b6245330943e6232e3e997fe3a6be3cdd587",
-  "generated": "2024-07-12T10:33:50.020Z",
+  "commit": "85bd1e5078f7be51c5fc9ee1c75e6cc6298387a5",
+  "generated": "2024-07-12T10:40:07.544Z",
   "metadata": [
     {
       "__outstatic": {
@@ -260,8 +260,8 @@
     },
     {
       "__outstatic": {
-        "commit": "52c9b6245330943e6232e3e997fe3a6be3cdd587",
-        "hash": "2058443925",
+        "commit": "85bd1e5078f7be51c5fc9ee1c75e6cc6298387a5",
+        "hash": "3779313888",
         "path": "outstatic/content/features/auth0-compatible.md"
       },
       "author": {
@@ -269,7 +269,7 @@
         "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
       },
       "collection": "features",
-      "coverImage": "/images/dall-e-2024-07-12-08.05.04---a-modern-and-sleek-icon-representing--getting-started--for-a-saas-startup.-the-icon-should-feature-a-stylized-rocket-launching-upwards-to-symbolize-th-cxMT.webp",
+      "coverImage": "/images/dall_e_2024-07-12_08.05.04_-_a_modern_and_sleek_icon_representing__getting_started__for_a_saas_startup._the_icon_should_feature_a_stylized_rocket_launching_upwards_to_symbolize_th-removebg-preview-kwNT.png",
       "description": "",
       "publishedAt": "2024-07-10T21:22:31.177Z",
       "slug": "auth0-compatible",
