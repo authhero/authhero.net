@@ -1,6 +1,6 @@
 {
-  "commit": "85bd1e5078f7be51c5fc9ee1c75e6cc6298387a5",
-  "generated": "2024-07-12T10:41:09.593Z",
+  "commit": "9c992cea44d7318b5251c598e194a1dc729e67a9",
+  "generated": "2024-07-12T15:51:43.626Z",
   "metadata": [
     {
       "__outstatic": {
@@ -169,25 +169,6 @@
     },
     {
       "__outstatic": {
-        "commit": "e2e5e12cb6f4e7386e2b9546ee4e797dc8d133ad",
-        "hash": "327838003",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Markus Ahlstrand",
-        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/hero-c1nj-k4Nz.png",
-      "description": "",
-      "features": "[{\"icon\":\"🛠️\", \"title\": \"Getting started\", \"detail\": \"Get up and running in minutes\"}]",
-      "publishedAt": "2024-06-16T21:17:50.245Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
         "commit": "24419469d9a22a3ad929cad940579893e1509e35",
         "hash": "175034607",
         "path": "outstatic/content/docs/workos.md"
@@ -275,6 +256,25 @@
       "slug": "auth0-compatible",
       "status": "published",
       "title": "Getting started"
+    },
+    {
+      "__outstatic": {
+        "commit": "9c992cea44d7318b5251c598e194a1dc729e67a9",
+        "hash": "2618858609",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/hero-c1nj-k4Nz.png",
+      "description": "",
+      "features": "[{\"icon\":\"🛠️\", \"title\": \"Getting started\", \"detail\": \"Get up and running in minutes\"}]",
+      "publishedAt": "2024-06-16T21:17:50.245Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }

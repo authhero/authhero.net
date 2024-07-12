@@ -13,4 +13,8 @@ publishedAt: '2024-06-16T21:17:50.245Z'
 
 # AuthHero
 
-A **open source** authentication server compatible that is a **drop in replacement** of **auth0**. Get it running locally in a minute or run it in CloudFlare for free in 5 minutes. Currently in alpha.
+A **open source** authentication server that is a **drop in replacement** of **auth0** for B2C use cases.
+
+Supports social login, password, code emails and magic links. OAuth2 and OIDC compliant.
+
+Get it running locally in a minute or run it in CloudFlare for free in 5 minutes. **Currently in alpha**.
