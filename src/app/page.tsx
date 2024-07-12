@@ -5,7 +5,7 @@ import ContentGrid from "../components/ContentGrid";
 import markdownToHtml from "../lib/markdownToHtml";
 
 export default async function Index() {
-  const { content, coverImage, title, allPosts, allProjects } = await getData();
+  const { content, coverImage, title, allFeatures } = await getData();
 
   return (
     <Layout>
@@ -25,20 +25,8 @@ export default async function Index() {
             />
           </div>
         </section>
-        {allPosts.length > 0 && (
-          <ContentGrid
-            title="Posts"
-            items={allPosts}
-            collection="posts"
-            priority
-          />
-        )}
-        {allProjects.length > 0 && (
-          <ContentGrid
-            title="Projects"
-            items={allProjects}
-            collection="projects"
-          />
+        {allFeatures.length > 0 && (
+          <ContentGrid title="" items={allFeatures} collection="projects" />
         )}
       </div>
     </Layout>
@@ -58,27 +46,14 @@ async function getData() {
 
   const content = await markdownToHtml(page.content);
 
-  const allPosts = await db
-    .find({ collection: "posts" }, [
-      "title",
-      "publishedAt",
-      "slug",
-      "coverImage",
-      "description",
-      "tags",
-    ])
-    .sort({ publishedAt: -1 })
-    .toArray();
-
-  const allProjects = await db
-    .find({ collection: "projects" }, ["title", "slug", "coverImage"])
+  const allFeatures = await db
+    .find({ collection: "features" }, ["title", "slug", "coverImage"])
     .sort({ publishedAt: -1 })
     .toArray();
 
   return {
     ...page,
     content,
-    allPosts,
-    allProjects,
+    allFeatures,
   };
 }
