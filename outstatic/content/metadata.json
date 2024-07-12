@@ -1,6 +1,6 @@
 {
   "commit": "85bd1e5078f7be51c5fc9ee1c75e6cc6298387a5",
-  "generated": "2024-07-12T10:40:07.544Z",
+  "generated": "2024-07-12T10:41:09.593Z",
   "metadata": [
     {
       "__outstatic": {
@@ -261,7 +261,7 @@
     {
       "__outstatic": {
         "commit": "85bd1e5078f7be51c5fc9ee1c75e6cc6298387a5",
-        "hash": "3779313888",
+        "hash": "1581225991",
         "path": "outstatic/content/features/auth0-compatible.md"
       },
       "author": {
@@ -269,12 +269,12 @@
         "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
       },
       "collection": "features",
-      "coverImage": "/images/dall_e_2024-07-12_08.05.04_-_a_modern_and_sleek_icon_representing__getting_started__for_a_saas_startup._the_icon_should_feature_a_stylized_rocket_launching_upwards_to_symbolize_th-removebg-preview-kwNT.png",
+      "coverImage": "/images/dall_e_2024-07-12_08.05.04_-_a_modern_and_sleek_icon_representing__getting_started__for_a_saas_startup._the_icon_should_feature_a_stylized_rocket_launching_upwards_to_symbolize_th-removebg-preview-AyNz.png",
       "description": "",
       "publishedAt": "2024-07-10T21:22:31.177Z",
       "slug": "auth0-compatible",
       "status": "published",
-      "title": "Auth0 Compatible"
+      "title": "Getting started"
     }
   ]
 }
