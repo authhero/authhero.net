@@ -1,6 +1,6 @@
 {
-  "commit": "b081cb4f1f86468f5b1aca2cf888ff04f74babc5",
-  "generated": "2024-07-10T21:12:23.606Z",
+  "commit": "52c9b6245330943e6232e3e997fe3a6be3cdd587",
+  "generated": "2024-07-12T10:33:50.020Z",
   "metadata": [
     {
       "__outstatic": {
@@ -260,8 +260,8 @@
     },
     {
       "__outstatic": {
-        "commit": "b081cb4f1f86468f5b1aca2cf888ff04f74babc5",
-        "hash": "1431943638",
+        "commit": "52c9b6245330943e6232e3e997fe3a6be3cdd587",
+        "hash": "2058443925",
         "path": "outstatic/content/features/auth0-compatible.md"
       },
       "author": {
@@ -269,7 +269,7 @@
         "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
       },
       "collection": "features",
-      "coverImage": "",
+      "coverImage": "/images/dall-e-2024-07-12-08.05.04---a-modern-and-sleek-icon-representing--getting-started--for-a-saas-startup.-the-icon-should-feature-a-stylized-rocket-launching-upwards-to-symbolize-th-cxMT.webp",
       "description": "",
       "publishedAt": "2024-07-10T21:22:31.177Z",
       "slug": "auth0-compatible",
