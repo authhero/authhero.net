@@ -1,6 +1,6 @@
 {
-  "commit": "9c992cea44d7318b5251c598e194a1dc729e67a9",
-  "generated": "2024-07-12T15:51:43.626Z",
+  "commit": "b04afa2d77e0c757b2e52eb5c2e7f82590f6a552",
+  "generated": "2024-07-16T10:53:33.870Z",
   "metadata": [
     {
       "__outstatic": {
@@ -110,26 +110,6 @@
       "slug": "hanko",
       "status": "published",
       "title": "Hanko"
-    },
-    {
-      "__outstatic": {
-        "commit": "0fe9d5b77ac3dff095705073eb505cf283928561",
-        "hash": "1600279407",
-        "path": "outstatic/content/docs/getting-started.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "Get started with Outstatic",
-      "menuPath": "Getting started",
-      "publishedAt": "2024-06-24T17:34:15.000Z",
-      "slug": "getting-started",
-      "startPagePrio": "1",
-      "status": "published",
-      "title": "Getting started"
     },
     {
       "__outstatic": {
@@ -275,6 +255,26 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "b04afa2d77e0c757b2e52eb5c2e7f82590f6a552",
+        "hash": "2171346706",
+        "path": "outstatic/content/docs/getting-started.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "Get started with Outstatic",
+      "menuPath": "Getting started",
+      "publishedAt": "2024-06-24T17:34:15.000Z",
+      "slug": "getting-started",
+      "startPagePrio": "1",
+      "status": "published",
+      "title": "Getting started"
     }
   ]
 }
