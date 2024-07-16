@@ -1,6 +1,6 @@
 {
-  "commit": "b04afa2d77e0c757b2e52eb5c2e7f82590f6a552",
-  "generated": "2024-07-16T10:53:33.870Z",
+  "commit": "76ee0a47ab8d5855d6055da0c99099c703f52672",
+  "generated": "2024-07-16T10:58:53.030Z",
   "metadata": [
     {
       "__outstatic": {
@@ -275,6 +275,25 @@
       "startPagePrio": "1",
       "status": "published",
       "title": "Getting started"
+    },
+    {
+      "__outstatic": {
+        "commit": "76ee0a47ab8d5855d6055da0c99099c703f52672",
+        "hash": "2328395674",
+        "path": "outstatic/content/docs/framework-components.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "menuPath": "",
+      "publishedAt": "2024-07-16T11:06:04.823Z",
+      "slug": "framework-components",
+      "status": "published",
+      "title": "Framework components"
     }
   ]
 }
