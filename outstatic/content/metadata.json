@@ -1,6 +1,6 @@
 {
-  "commit": "76ee0a47ab8d5855d6055da0c99099c703f52672",
-  "generated": "2024-07-16T10:58:53.030Z",
+  "commit": "bc5557c52599cd4b43d02771688888d2a4d7f901",
+  "generated": "2024-07-18T15:11:21.447Z",
   "metadata": [
     {
       "__outstatic": {
@@ -294,6 +294,25 @@
       "slug": "framework-components",
       "status": "published",
       "title": "Framework components"
+    },
+    {
+      "__outstatic": {
+        "commit": "bc5557c52599cd4b43d02771688888d2a4d7f901",
+        "hash": "3876891226",
+        "path": "outstatic/content/docs/authorize-endpoint.md"
+      },
+      "author": {
+        "name": "Markus Ahlstrand",
+        "picture": "https://avatars.githubusercontent.com/u/89469?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "menuPath": "",
+      "publishedAt": "2024-07-18T15:14:37.367Z",
+      "slug": "authorize-endpoint",
+      "status": "published",
+      "title": "Authorize endpoint"
     }
   ]
 }
